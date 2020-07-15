@@ -13,11 +13,11 @@
   &nbsp;
   <a href="https://github.com/icelam?tab=repositories&q=&type=source&language=typescript"><img height="20" src="https://raw.githubusercontent.com/icelam/icelam/master/images/typescript.png" alt="TypeScript"></a>
   &nbsp;
-  <a href="https://github.com/icelam?tab=repositories&q=&type=source&language=javascript"><img height="20" src="https://raw.githubusercontent.com/icelam/icelam/master/images/react.png" alt="ReactJS"></a>
+  <a href="https://github.com/icelam?tab=repositories&q=reactjs&type=&language="><img height="20" src="https://raw.githubusercontent.com/icelam/icelam/master/images/react.png" alt="ReactJS"></a>
   &nbsp;
   <a href="https://github.com/icelam?tab=repositories&q=&type=source&language=vue"><img height="20" src="https://raw.githubusercontent.com/icelam/icelam/master/images/vue.png" alt="Vue.js"></a>
   &nbsp;
-  <a href="https://github.com/icelam?tab=repositories&q=&type=source&language=javascript"><img height="20" src="https://raw.githubusercontent.com/icelam/icelam/master/images/nodejs.png" alt="Node.js"></a>
+  <a href="https://github.com/icelam?tab=repositories&q=nodejs&type=&language="><img height="20" src="https://raw.githubusercontent.com/icelam/icelam/master/images/nodejs.png" alt="Node.js"></a>
   &nbsp;
   <a href="https://github.com/icelam?tab=repositories&q=deno&type=&language="><img height="20" src="https://raw.githubusercontent.com/icelam/icelam/master/images/deno.png" alt="Deno"></a>
   &nbsp;
