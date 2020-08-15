@@ -15,7 +15,7 @@
   &nbsp;
   <a href="https://github.com/icelam?tab=repositories&q=reactjs&type=&language="><img height="20" src="https://raw.githubusercontent.com/icelam/icelam/master/images/react.png" alt="ReactJS"></a>
   &nbsp;
-  <a href="https://github.com/icelam?tab=repositories&q=&type=source&language=vue"><img height="20" src="https://raw.githubusercontent.com/icelam/icelam/master/images/vue.png" alt="Vue.js"></a>
+  <a href="https://github.com/icelam?tab=repositories&q=vuejs&type=source&language="><img height="20" src="https://raw.githubusercontent.com/icelam/icelam/master/images/vue.png" alt="Vue.js"></a>
   &nbsp;
   <a href="https://github.com/icelam?tab=repositories&q=nodejs&type=&language="><img height="20" src="https://raw.githubusercontent.com/icelam/icelam/master/images/nodejs.png" alt="Node.js"></a>
   &nbsp;
