@@ -21,7 +21,7 @@
   &nbsp;
   <a href="https://github.com/icelam?tab=repositories&q=deno&type=&language="><img height="20" src="https://raw.githubusercontent.com/icelam/icelam/master/images/deno.png" alt="Deno"></a>
   &nbsp;
-  <a href="https://github.com/icelam?tab=repositories&q=&type=source&language=php"><img height="20" src="https://raw.githubusercontent.com/icelam/icelam/master/images/php.png" alt="PHP"></a>
+  <a href="https://github.com/icelam?tab=repositories&q=&type=source&language=python"><img height="20" src="https://raw.githubusercontent.com/icelam/icelam/master/images/python.png" alt="Python"></a>
   <br/><br/>
   <a href="https://icelam.github.io/">website</a>．<a href="https://www.npmjs.com/~icelam">npm</a>
 </p>
