@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/icelam/icelam/master/images/logo.png" width="32px">
+  <img src="https://raw.githubusercontent.com/icelam/icelam/master/images/kawaii-logo.png" height="100px">
   <br><br>
   <samp>
     Simply a web developer based in Hong Kong.
